@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m @tecnoculto
+- 👀 I’m interested in learning everything
+- 🌱 I’m currently learning Data Science, English and Soft Skills
+- 💞️ I’m looking to collaborate on something with Python
+- 📫 How to reach me just sendme a message
+
+<!---
+tecnoculto/tecnoculto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
